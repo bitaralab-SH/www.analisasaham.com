@@ -13,21 +13,21 @@ const SAMPLES: SampleReport[] = [
     title: "Trend Analysis (20MA & 200MA)",
     description: "Identify Golden Crosses and Death Crosses with clear Buy/Hold/Sell signals. Includes volume analysis and stop-loss targets.",
     // REPLACE THIS URL with your actual image path (e.g., "/images/trend-analysis.png")
-    imageUrl: "https://placehold.co/1200x800/1e293b/10b981?text=Sample+1:+Trend+Analysis+20MA+200MA"
+    imageUrl: "./Trend20MA200MA.png"
   },
   {
     id: 2,
     title: "AI Price Prediction Models",
     description: "5-Day Forecasts using ARIMA and Holt-Winters machine learning models to predict future price movements.",
     // REPLACE THIS URL with your actual image path
-    imageUrl: "https://placehold.co/1200x800/1e293b/3b82f6?text=Sample+2:+AI+Prediction+ARIMA"
+    imageUrl: "./ARIMA_HoltWinter.png"
   },
   {
     id: 3,
     title: "Volatility Scatter Plot",
     description: "Visual cluster analysis to spot 'Big Gainers' and 'Big Droppers'. Filter by volatility characteristics to find breakout stocks.",
     // REPLACE THIS URL with your actual image path
-    imageUrl: "https://placehold.co/1200x800/1e293b/f59e0b?text=Sample+3:+Volatility+Scatter+Plot"
+    imageUrl: "./ScatterPlot.png"
   }
 ];
 
