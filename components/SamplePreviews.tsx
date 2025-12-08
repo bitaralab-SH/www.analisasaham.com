@@ -13,21 +13,21 @@ const SAMPLES: SampleReport[] = [
     title: "Trend Analysis (20MA & 200MA)",
     description: "Identify Golden Crosses and Death Crosses with clear Buy/Hold/Sell signals. Includes volume analysis and stop-loss targets.",
     // REPLACE THIS URL with your actual image path (e.g., "/images/trend-analysis.png")
-    imageUrl: "/Trend20MA200MA.png"
+    imageUrl: "/image/Trend20MA200MA.png"
   },
   {
     id: 2,
     title: "AI Price Prediction Models",
     description: "5-Day Forecasts using ARIMA and Holt-Winters machine learning models to predict future price movements.",
     // REPLACE THIS URL with your actual image path
-    imageUrl: "/ARIMA_HoltWinter.png"
+    imageUrl: "/image/ARIMA_HoltWinter.png"
   },
   {
     id: 3,
     title: "Volatility Scatter Plot",
     description: "Visual cluster analysis to spot 'Big Gainers' and 'Big Droppers'. Filter by volatility characteristics to find breakout stocks.",
     // REPLACE THIS URL with your actual image path
-    imageUrl: "/ScatterPlot.png"
+    imageUrl: "/imageScatterPlot.png"
   }
 ];
 
